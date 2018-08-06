@@ -1,0 +1,14 @@
+{
+  "name": "developer-ci-benefits-demo",
+  "version": "0.0.1",
+  "description": "This is a demo repo setup to go along with the Developer CI Benefits Talk",
+  "main": "index.js",
+  "repository": "git@github.com:yowainwright/developer-ci-benefits-demo.git",
+  "author": "Jeff Wainwright <yowainwright@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-jest": "^23.1.2",
+    "ts-lint": "^4.5.1",
+    "typescript": "^3.0.1"
+  }
+}
