@@ -19,6 +19,7 @@
   "scripts": {
     "chore:branch": "git checkout -b chore-changelog",
     "chore:changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "chore:delete-branch": "if git show-ref --quiet refs/heads/chore-changelog; then git branch -D chore-changelog; fi",
     "chore:pr": "git add . && git commit -m '[chore] updates changelog' --no-verify && git push origin chore-changelog -f",
     "chore": "npm run chore:delete-branch && npm run chore:branch && npm run chore:changelog && npm run chore:pr",
     "grammar": "write-good *.md --no-passive",
