@@ -1,3 +1,8 @@
 import { asserter } from '../'
 
-console.log(asserter);
+/*
+   linkedListNode Tests
+*/
+test('Jest is working, asserter is imported', () => {
+  expect(typeof asserter).toBe('function')
+})
