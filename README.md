@@ -16,7 +16,7 @@ Listed below are tools used to setup this Repository and its CI with links to to
 
 ----
 
-### Can JS be used instead of TS?
+### Can JS be used instead of TS
 
 JavaScript can be used instead of TypeScript. The list below articulates the differences at a high level.
 
