@@ -1,7 +1,7 @@
 # Developer CI Benefits Demo
 
 This is a dependency repository example for the [Developer CI Benefits Talk](https://github.com/yowainwright/developer-ci-benefits).
-It is a published on NPM to demonstrate a full CI development process.
+This repository is a published on NPM. It development a full CI process.
 
 ## High level repository features
 
