@@ -22,7 +22,7 @@
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "grammar": "write-good *.md --no-passive",
-    "markdownlint": "markdownlint *.md",
+    "markdownlint": "markdownlint *.md -i CHANGELOG.md",
     "prepush": "npm test",
     "pre-commit-msg": "Echo 'Running pre-commit checks...' && exit 0",
     "release": "standard-version",
