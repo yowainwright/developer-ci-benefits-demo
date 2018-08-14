@@ -7,4 +7,12 @@
 behavior
 behaviors
  - README.md
+EditorConfig
+config
+Markdownlint
+NVM
+JS
+TS
+ESLint
+NPM
 developer-ci-benefits-demo

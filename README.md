@@ -24,14 +24,14 @@ JavaScript can be used instead of TypeScript. The list below articulates the dif
   - TypeScript is 100% interchangeable with JavaScript.
     - To use JavaScript instead of TypeScript, use JavaScript with Babel.
     - To test JavaScript instead of TypeScript, use Jest.
-    - To lint JavaScript istead of TypeScript, use ESLisnt.
+    - To lint JavaScript instead of TypeScript, use ESLint.
 - [Read more](https://github.com/yowainwright/developer-ci-benefits) about the talk by clicking the "Developer CI Benefits Talk" or "Read more" links.
 
 ----
 
 ## Reference
 
-Listed below is attriubtion to this repository and where this repository can be referenced.
+Listed below is attribution to this repository and where this repository can be referenced.
 
 - This is a demo repo setup to go along with the Developer CI Benefits Talk.
 - This is a dependency repository example for the [Developer CI Benefits Talk](https://github.com/yowainwright/developer-ci-benefits).
