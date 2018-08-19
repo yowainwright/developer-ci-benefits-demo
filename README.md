@@ -1,3 +1,5 @@
+![Developer CI Benefits Demo Banner](https://jeffry.in/assets/developer-ci-benefits/developer-ci-benefits-demo.svg)
+
 # Developer CI Benefits Demo
 
 This repository show's a CI setup. It works using steps described in the [Developer CI Benefits Talk repository](https://github.com/yowainwright/developer-ci-benefits).
