@@ -17,7 +17,7 @@
     "ts-lint": "^4.5.1",
     "tslint-config-dollarshaveclub": "^1.0.2",
     "typescript": "^3.0.1",
-    "write-good": "^0.13.0"
+    "write-good": "^1.0.0"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
