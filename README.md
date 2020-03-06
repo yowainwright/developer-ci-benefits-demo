@@ -2,7 +2,7 @@
 
 # Developer CI Benefits Demo
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/yowainwright/developer-ci-benefits-demo.svg)](https://greenkeeper.io/)
+
 [![CircleCI](https://circleci.com/gh/yowainwright/developer-ci-benefits-demo.svg?style=svg)](https://circleci.com/gh/yowainwright/developer-ci-benefits-demo)
 
 This repository show's a CI setup. It works using steps described in the [Developer CI Benefits Talk repository](https://github.com/yowainwright/developer-ci-benefits).
