@@ -4725,8 +4725,8 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 write-good@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.2.tgz#0b09ed8082f85ebb2fb325b9c7128295681d5b2d"
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.3.tgz#d60d171bd33a1e4f91a6f2cd320e4b8bb1343161"
   dependencies:
     adverb-where "^0.2.1"
     commander "^2.19.0"
