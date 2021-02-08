@@ -1452,9 +1452,9 @@ dotgitignore@^2.1.0:
     find-up "^3.0.0"
     minimatch "^3.0.4"
 
-e-prime@^0.10.2:
-  version "0.10.2"
-  resolved "https://registry.yarnpkg.com/e-prime/-/e-prime-0.10.2.tgz#ea9375eb985636de88013c7a9fb129ad9e15eff8"
+e-prime@^0.10.4:
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/e-prime/-/e-prime-0.10.4.tgz#562f56a50f0def8a6c7a73069fff42b035e569d7"
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"
@@ -4329,9 +4329,9 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-too-wordy@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/too-wordy/-/too-wordy-0.2.2.tgz#e02b43a9e0817621a71db5d7d1c67634820a23d0"
+too-wordy@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/too-wordy/-/too-wordy-0.3.0.tgz#7a859930678b6535724cee5a2eaed792151aaa5f"
 
 tough-cookie@^2.3.3, tough-cookie@~2.5.0:
   version "2.5.0"
@@ -4702,15 +4702,15 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 write-good@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.3.tgz#d60d171bd33a1e4f91a6f2cd320e4b8bb1343161"
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/write-good/-/write-good-1.0.5.tgz#4ccfddc4747c96b986b25f4fa87de8b748ef3881"
   dependencies:
     adverb-where "^0.2.1"
     commander "^2.19.0"
-    e-prime "^0.10.2"
+    e-prime "^0.10.4"
     no-cliches "^0.2.2"
     passive-voice "^0.1.0"
-    too-wordy "^0.2.2"
+    too-wordy "^0.3.0"
     weasel-words "^0.1.1"
 
 ws@^7.2.3:
